@@ -28,7 +28,8 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 
 ## OUTPUT:
-<img width="1877" height="1070" alt="Screenshot 2026-01-31 143416" src="https://github.com/user-attachments/assets/d8d9a429-5eb9-4bb0-ad16-e2f4337bd6f5" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-31 144957" src="https://github.com/user-attachments/assets/731d4061-a3a5-418e-9c70-d019f74cda83" />
+
 
 
 
